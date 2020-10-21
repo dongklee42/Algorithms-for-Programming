@@ -8,7 +8,7 @@ def	heapsort(iterable):
 
 	for value in iterable:			# 모든 원소를 차례대로 힙에 삽입
 		heapq.heappush(h, value)
-	for i in range(len(h)):			# 힙에 삽입된 원소를 차례대로 꺼내어 담기
+	for _ in range(len(h)):			# 힙에 삽입된 원소를 차례대로 꺼내어 담기
 		result.append(heapq.heappop(h))
 	return result
 
