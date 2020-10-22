@@ -1,1 +1,1 @@
-# Algorithms-In-Codes
+# Algorithms-for-Programming
