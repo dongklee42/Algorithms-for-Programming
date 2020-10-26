@@ -1,0 +1,14 @@
+해커랭크에서 나온 sql 문제:
+
+여러 테이블이 있는데 그 중 교수의 학부 정보와 
+학기 중 강의 테이블 두 가지를 활용하여 
+
+자신의 학부 외부에서 강의했던 것을 찾아라
+>> 내 생각 : Left outer join 으로 풀고, 같지 않은 부분만 출력(이 부분 구현 못함)
+
+----------- 구현부 -----------
+SELECT professor.name, course.name
+FROM professor LEFT OUTER JOIN course
+on professor.department_id = professor.department_id
+... ;
+
