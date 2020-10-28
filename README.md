@@ -1,3 +1,2 @@
-# Algorithms-for-Programming
-
-- Practice Algo--
+# Algorithms for Programming
+> Explanation will be updated.. 
