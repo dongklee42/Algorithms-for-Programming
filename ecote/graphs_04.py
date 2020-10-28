@@ -28,7 +28,7 @@ def	topology_sort():
 		result.append(now)
 		for i in graph[now]:
 			indegree[i] -= 1
-			if indegree[i] == 0:
+			if indegree[i] == 0:                   
 				q.append(i)
 	
 	# 결과 출력
