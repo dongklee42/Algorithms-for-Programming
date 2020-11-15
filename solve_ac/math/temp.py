@@ -1,2 +1,10 @@
-a, b, c = 2, 1, 5
-print(c // (a - b))
+a = 1
+b = 3
+
+num_list = [a, b]
+num_dic = {
+	"a" : a,
+	"b" : b,
+}
+print(num_list[0])
+print(num_dic['a'])
