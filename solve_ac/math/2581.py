@@ -1,10 +1,9 @@
-from math import sqrt
-
 def is_prime(n):
   num = 2
+  sqrt_n = n **(0.5)
   if n < 2:
     return 0
-  while sqrt(n) > num:
+  while sqrt_n > num:
     if n % num == 0:
       return 0
     else:
