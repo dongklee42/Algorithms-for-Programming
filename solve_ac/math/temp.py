@@ -8,3 +8,5 @@ num_dic = {
 }
 print(num_list[0])
 print(num_dic['a'])
+
+print(sum(1, 2, 3))
