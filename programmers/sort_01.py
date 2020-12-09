@@ -1,19 +1,13 @@
-# 가장 큰 수(수정 필요)
-def comb_digits(num_list):
-    comb_list = []
-    for i, n in enumerate(num_list):
-        num = 0
-        num += num_list[i]
-        for j in range(len(num_list)):
-            if i != j:
-                num = (num * 10**(len(str(num_list[j])))) + num_list[j]
-        comb_list.append(num)
-    return comb_list
-
+def changer(numbers):
+    n = numbers
+    for i in range((len(n) - 1), 0 , -1):
+        for j in range(i):
+            if int(str(n[j]) + str(n[j + 1])) < int(str(n[j + 1]) + str(n[j])):
+                n[j], n[j + 1] = n[j + 1], n[j]
+    n = [str(i) for i in n]
+    return n
 
 def solution(numbers):
-    num_list = comb_digits(numbers)
-    num_list.sort()
-    print(num_list)
-    answer = str(num_list[-1])
+    numbers = changer(numbers)
+    answer = str(int(''.join(numbers)))
     return answer
