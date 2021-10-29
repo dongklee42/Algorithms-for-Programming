@@ -3,12 +3,32 @@
    version = "3.0">
    <TimelineItems>
       <LoggerValueHistoryTimelineItem
-         documentLocation = "file:///Users/easternstar/dongklee/Algorithms-for-Programming/Swift/TestingNote.playground#CharacterRangeLen=1063&amp;CharacterRangeLoc=71&amp;EndingColumnNumber=0&amp;EndingLineNumber=57&amp;StartingColumnNumber=0&amp;StartingLineNumber=5&amp;Timestamp=655965640.958147"
+         documentLocation = "file:///Users/easternstar/dongklee/Algorithms-for-Programming/Swift/TestingNote.playground#CharacterRangeLen=6136&amp;CharacterRangeLoc=71&amp;EndingColumnNumber=0&amp;EndingLineNumber=270&amp;StartingColumnNumber=0&amp;StartingLineNumber=5&amp;Timestamp=656736360.717308"
          selectedRepresentationIndex = "0"
          shouldTrackSuperviewWidth = "NO">
       </LoggerValueHistoryTimelineItem>
       <LoggerValueHistoryTimelineItem
-         documentLocation = "file:///Users/easternstar/dongklee/Algorithms-for-Programming/Swift/TestingNote.playground#CharacterRangeLen=63&amp;CharacterRangeLoc=1071&amp;EndingColumnNumber=0&amp;EndingLineNumber=57&amp;StartingColumnNumber=1&amp;StartingLineNumber=53&amp;Timestamp=655965640.958262"
+         documentLocation = "file:///Users/easternstar/dongklee/Algorithms-for-Programming/Swift/TestingNote.playground#CharacterRangeLen=5102&amp;CharacterRangeLoc=1105&amp;EndingColumnNumber=0&amp;EndingLineNumber=270&amp;StartingColumnNumber=3&amp;StartingLineNumber=53&amp;Timestamp=656736360.717432"
+         selectedRepresentationIndex = "0"
+         shouldTrackSuperviewWidth = "NO">
+      </LoggerValueHistoryTimelineItem>
+      <LoggerValueHistoryTimelineItem
+         documentLocation = "file:///Users/easternstar/dongklee/Algorithms-for-Programming/Swift/TestingNote.playground#CharacterRangeLen=3734&amp;CharacterRangeLoc=2473&amp;EndingColumnNumber=0&amp;EndingLineNumber=270&amp;StartingColumnNumber=22&amp;StartingLineNumber=131&amp;Timestamp=656736360.717527"
+         selectedRepresentationIndex = "0"
+         shouldTrackSuperviewWidth = "NO">
+      </LoggerValueHistoryTimelineItem>
+      <LoggerValueHistoryTimelineItem
+         documentLocation = "file:///Users/easternstar/dongklee/Algorithms-for-Programming/Swift/TestingNote.playground#CharacterRangeLen=2847&amp;CharacterRangeLoc=3360&amp;EndingColumnNumber=0&amp;EndingLineNumber=270&amp;StartingColumnNumber=0&amp;StartingLineNumber=164&amp;Timestamp=656736360.717618"
+         selectedRepresentationIndex = "0"
+         shouldTrackSuperviewWidth = "NO">
+      </LoggerValueHistoryTimelineItem>
+      <LoggerValueHistoryTimelineItem
+         documentLocation = "file:///Users/easternstar/dongklee/Algorithms-for-Programming/Swift/TestingNote.playground#CharacterRangeLen=45&amp;CharacterRangeLoc=3517&amp;EndingColumnNumber=2&amp;EndingLineNumber=171&amp;StartingColumnNumber=11&amp;StartingLineNumber=170&amp;Timestamp=656736360.717705"
+         selectedRepresentationIndex = "0"
+         shouldTrackSuperviewWidth = "NO">
+      </LoggerValueHistoryTimelineItem>
+      <LoggerValueHistoryTimelineItem
+         documentLocation = "file:///Users/easternstar/dongklee/Algorithms-for-Programming/Swift/TestingNote.playground#CharacterRangeLen=38&amp;CharacterRangeLoc=3634&amp;EndingColumnNumber=2&amp;EndingLineNumber=175&amp;StartingColumnNumber=0&amp;StartingLineNumber=174&amp;Timestamp=656736360.7177939"
          selectedRepresentationIndex = "0"
          shouldTrackSuperviewWidth = "NO">
       </LoggerValueHistoryTimelineItem>
